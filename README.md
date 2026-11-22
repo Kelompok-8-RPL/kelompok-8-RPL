@@ -24,7 +24,7 @@
 
 </div>
 
-> **Edit bagian ini:** ganti `Operator 01` sampai `Operator 04`, isi nama, NIM, dan peran sesuai anggota kelompok. Tambahkan atau kurangi kartu jika jumlah anggota berbeda.
+> **Edit bagian ini:** profil tiga operator sudah diisi dengan nama dan NIM anggota Kelompok 8. Tambahkan atau kurangi kartu jika jumlah anggota berbeda.
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -54,7 +54,7 @@ Setiap proyek melewati enam tahap pengembangan perangkat lunak (SDLC).
 
 ## ◈ GIT OPERATIONS
 
-Empat operator, empat branch kerja, satu tujuan: integrasi ke `main` dan rilis versi `1.0`.
+Tiga operator, branch kerja sesuai pembagian tugas, satu tujuan: integrasi ke `main` dan rilis versi `1.0`.
 
 <img src="./assets/gitgraph.svg" width="100%" alt="Alur kerja Git Kelompok 8"/>
 
