@@ -6,11 +6,10 @@
 |---|---|
 | Nama Project | Smart Parking Digital Twin |
 | Judul Project | Pengembangan Sistem Smart Parking Digital Twin untuk Monitoring dan Simulasi Ketersediaan Tempat Parkir Berbasis Website |
-| Ketua Kelompok | [Nama ketua kelompok] |
-| Anggota | [Nama-nama anggota kelompok] |
-| Dosen/Pembimbing | [Nama dosen] |
-| Tanggal Mulai | [Tanggal mulai project] |
-| Target Selesai | [Tanggal target selesai] |
+| Ketua Kelompok | [Akbar Pratenta] |
+| Anggota | [Cut haura nabrisa , Nisrina Syifa Mazaya Salha] |
+| Tanggal Mulai | [22 November] |
+| Target Selesai | [-] |
 
 ## 2. Ringkasan Project
 
@@ -106,10 +105,4 @@ Project dinyatakan mencapai tujuan awal apabila:
 5. Jumlah slot kosong dan terisi diperbarui sesuai perubahan.
 6. Dokumen dan kode project tersimpan di repository GitHub.
 
-## 12. Persetujuan
 
-| Peran | Nama | Tanda Tangan |
-|---|---|---|
-| Ketua Kelompok | [Nama] | [Tanda tangan] |
-| Anggota | [Nama] | [Tanda tangan] |
-| Dosen | [Nama] | [Tanda tangan, jika diminta] |
