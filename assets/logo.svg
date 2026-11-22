@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+<defs><filter id="g"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="8" y="8" width="384" height="244" rx="22" fill="#0B1020" stroke="#00F5D4" stroke-width="3"/>
+<path d="M70 60H330M70 200H330" stroke="#FF2E88" stroke-width="2" opacity=".8"/>
+<path d="M200 35L275 78V160L200 203L125 160V78Z" fill="none" stroke="#00F5D4" stroke-width="5" filter="url(#g)"/>
+<path d="M165 92L135 119L165 146M235 92L265 119L235 146M215 85L185 153" fill="none" stroke="#FCEE0A" stroke-width="7" stroke-linecap="square"/>
+<text x="200" y="235" fill="#F5F7FF" text-anchor="middle" font-family="monospace" font-size="18" letter-spacing="5">K8 // OPERATORS</text>
+</svg>

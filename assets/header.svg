@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080B18"/><stop offset="1" stop-color="#17102B"/></linearGradient>
+ <linearGradient id="neon"><stop stop-color="#00F5D4"/><stop offset="1" stop-color="#FF2E88"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#00F5D4" stroke-opacity=".13"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<path d="M0 245L220 245 265 200 450 200M780 80H930L975 35H1200" stroke="#FF2E88" stroke-width="2" opacity=".7" fill="none"/>
+<path d="M0 65H130L165 100H330M900 270H1040L1080 230H1200" stroke="#00F5D4" stroke-width="2" opacity=".7" fill="none"/>
+<g fill="#00F5D4" opacity=".8"><circle cx="220" cy="245" r="4"/><circle cx="930" cy="80" r="4"/><circle cx="1040" cy="270" r="4"/></g>
+<text x="600" y="105" text-anchor="middle" fill="#00F5D4" font-family="monospace" font-size="19" letter-spacing="8">SYSTEM ONLINE // TEAM PROFILE</text>
+<text x="600" y="178" text-anchor="middle" fill="#F5F7FF" font-family="Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="5" filter="url(#glow)">KELOMPOK 8</text>
+<text x="600" y="220" text-anchor="middle" fill="#FF2E88" font-family="monospace" font-size="22" letter-spacing="5">CYBERPUNK • HACKER • INNOVATION</text>
+<path d="M350 245H850" stroke="url(#neon)" stroke-width="3"/>
+</svg>
